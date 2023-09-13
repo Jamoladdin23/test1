@@ -10,4 +10,4 @@ print("vse polucitsya")
 
 
 def pp():
-    return
+    return 123
