@@ -7,3 +7,6 @@ if __name__ == '__main__':
 
 print('ya ponyal')
 print("vse polucitsya")
+ def pop():
+     print(55)
+     
