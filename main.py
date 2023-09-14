@@ -7,6 +7,9 @@ if __name__ == '__main__':
 
 print('ya ponyal')
 print("vse polucitsya")
- def pop():
-     print(55)
-     print(999)
+
+
+
+def pp():
+    return 123
+
