@@ -15,3 +15,7 @@ def pp(a, f):
 
 
 pp(22, 44)
+
+t = 44
+y = 33
+print(t+y)
