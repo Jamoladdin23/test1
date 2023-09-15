@@ -9,7 +9,5 @@ print('ya ponyal')
 print("vse polucitsya")
 
 
-
 def pp():
     return 123
-
