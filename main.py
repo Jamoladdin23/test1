@@ -9,5 +9,9 @@ print('ya ponyal')
 print("vse polucitsya")
 
 
-def pp():
-    return 123
+def pp(a, f):
+    b = a + f
+    print(b)
+
+
+pp(22, 44)
